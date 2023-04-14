@@ -12,7 +12,7 @@ public class Main extends Employee {
 //
 //        emp.EMPLOYEE_ID = 12232
 
-//        If can't override final method, gives an error - illegal start of expression
+//        Can't override final method, gives an error - illegal start of expression
 //        public final void employeeDetails(){
 //            System.out.println("method override");
 //        }
